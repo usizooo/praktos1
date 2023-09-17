@@ -1,0 +1,15 @@
+/Users/tkyoosweel/Projects/Практическая 1. Код/Практическая 1. Код/bin/Debug/net7.0/Практическая 1. Код
+/Users/tkyoosweel/Projects/Практическая 1. Код/Практическая 1. Код/bin/Debug/net7.0/Практическая 1. Код.deps.json
+/Users/tkyoosweel/Projects/Практическая 1. Код/Практическая 1. Код/bin/Debug/net7.0/Практическая 1. Код.runtimeconfig.json
+/Users/tkyoosweel/Projects/Практическая 1. Код/Практическая 1. Код/bin/Debug/net7.0/Практическая 1. Код.dll
+/Users/tkyoosweel/Projects/Практическая 1. Код/Практическая 1. Код/bin/Debug/net7.0/Практическая 1. Код.pdb
+/Users/tkyoosweel/Projects/Практическая 1. Код/Практическая 1. Код/obj/Debug/net7.0/Практическая 1. Код.csproj.AssemblyReference.cache
+/Users/tkyoosweel/Projects/Практическая 1. Код/Практическая 1. Код/obj/Debug/net7.0/Практическая 1. Код.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tkyoosweel/Projects/Практическая 1. Код/Практическая 1. Код/obj/Debug/net7.0/Практическая 1. Код.AssemblyInfoInputs.cache
+/Users/tkyoosweel/Projects/Практическая 1. Код/Практическая 1. Код/obj/Debug/net7.0/Практическая 1. Код.AssemblyInfo.cs
+/Users/tkyoosweel/Projects/Практическая 1. Код/Практическая 1. Код/obj/Debug/net7.0/Практическая 1. Код.csproj.CoreCompileInputs.cache
+/Users/tkyoosweel/Projects/Практическая 1. Код/Практическая 1. Код/obj/Debug/net7.0/Практическая 1. Код.dll
+/Users/tkyoosweel/Projects/Практическая 1. Код/Практическая 1. Код/obj/Debug/net7.0/refint/Практическая 1. Код.dll
+/Users/tkyoosweel/Projects/Практическая 1. Код/Практическая 1. Код/obj/Debug/net7.0/Практическая 1. Код.pdb
+/Users/tkyoosweel/Projects/Практическая 1. Код/Практическая 1. Код/obj/Debug/net7.0/Практическая 1. Код.genruntimeconfig.cache
+/Users/tkyoosweel/Projects/Практическая 1. Код/Практическая 1. Код/obj/Debug/net7.0/ref/Практическая 1. Код.dll
