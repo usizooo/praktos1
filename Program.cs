@@ -107,5 +107,4 @@ while (operation != 9) // общий цикл для всех оппераций
             }
         } while (operation > 4);
     }
-
 }
